@@ -64,7 +64,7 @@ function App() {
         <div>
           <h2>Your Summary</h2>
           <p>{text.split(" ").length} Words, {text.length} Characters</p>
-          <h3>Preview</h3>
+          <h3>Preview  tusharrrrrrrrrr</h3>
           <p>{text}</p>
         </div>
         </div>
